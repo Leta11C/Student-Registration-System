@@ -1,0 +1,44 @@
+
+.deo{
+color:red;
+
+}
+
+.control
+{
+margin-left:190px;
+margin-top:10px;
+}
+.controls input[type="text"],
+.controls select[type="text"],
+.controls input[type="date"]
+ {
+  width: 100%;
+	max-width:200px;
+  height:30px;
+  font-family: 'Ubuntu', sans-serif;
+  margin:10px 0;
+  border-radius:5px;
+  border:2px solid #f2f2f2;
+  outline:none;
+  padding-left:10px;
+  margin-right:10px;
+}
+
+.container
+{
+border:2px;
+}
+.contro
+{
+margin-left:190px;
+margin-top:10px;
+margin-right:190px;
+}
+.details
+{
+background:red;
+
+
+
+}

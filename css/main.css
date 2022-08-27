@@ -1,0 +1,28 @@
+.ok
+{
+
+margin-left:50px;
+
+}
+
+
+.ok select[type="text"]
+ {
+
+	width:160px;
+  height:30px;
+  font-family: 'Ubuntu', sans-serif;
+  margin:10px 0;
+  border-radius:5px;
+  border:2px solid #f2f2f2;
+  outline:none;
+  padding-left:10px;
+  margin-right:10px;
+}
+.spa
+{
+
+margin-left:50px;
+margin-top:20px;
+
+}

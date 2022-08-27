@@ -1,0 +1,59 @@
+.modal-content{-webkit-box-shadow:0 5px 15px rgba(0,0,0,.5);box-shadow:0 5px 15px rgba(0,0,0,.5);
+ position: relative;
+	width: 700px;
+	
+	background: white;
+	border-radius: 10px;
+	box-shadow: 0px 5px 20px 2px rgba(0,0,0,0.1);
+	margin-left:100px;
+  margin-top:2px;
+	
+}
+.modal-header{min-height:16.43px;padding:15px;border-bottom:1px solid #e5e5e5}
+.modal-header .close{margin-top:-2px}
+.modal-title{margin:0;line-height:1.42857143; font-size:30px; text-align:center}
+.modal-body{position:relative;padding:40px}
+.modal-footer{padding:15px;margin-left:430px;  border-top:1px solid #e5e5e5 h}
+
+input[type="email"],input[type="number"],input[type="password"],input[type="date"],input[type="text"],input[type="file"],select,textarea{
+ 
+ 
+  border:1px solid #ccc;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  border-bottom-right-radius:7px;
+  border-bottom-left-radius:7px;
+  padding:10px;
+  font-family:'Open Sans',sans-serif;
+  font-size:100%;
+  color:#555;
+  height:20px;
+  width:380px;
+  margin-top:10px;
+}
+textarea{
+  height:100px;	
+  width:380px;
+  
+}
+
+.why
+{
+ background:red;
+}
+th
+{
+background:white;
+color:black;
+}
+button[type="submit"]{
+	width:110px;
+	height:40px;
+	  border:1px solid #ccc;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  border-bottom-right-radius:7px;
+  border-bottom-left-radius:7px;
+  background:#32CD32;
+  margin-bottom:50px;
+}

@@ -1,0 +1,72 @@
+.body{
+
+width:200;
+
+}
+
+.detailss
+{
+margin-left:100px;
+background:#00008B;
+color:white;
+width:550px;
+margin-top:80px;
+height:40px;
+
+
+}
+.add-grade
+
+{
+
+height:500px;
+color:black;
+border-radius:2px;
+margin-left:110px;
+width:500px;
+background:white;
+border-radius:10px;
+
+}
+
+
+input[type="text"],select [type="text"],input[type="file"],select,textarea{
+ 
+  background:#fff;
+  border:1px solid #ccc;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  border-bottom-right-radius:7px;
+  border-bottom-left-radius:7px;
+  padding:10px;
+  font-family:'Open Sans',sans-serif;
+  font-size:100%;
+  color:#555;
+  height:20px;
+  width:350px;
+  margin-top:10px;
+  margin-left:80px;
+}
+.control input[type="submit"]
+	{
+  height:50px;
+  width:200px;
+
+  border:1px solid #f2f2f2;
+  border-radius:20px;
+  color: slategrey;
+  text-transform:uppercase;
+  font-family: 'Ubuntu', sans-serif;
+  cursor:pointer;
+  margin-top:20px;
+  margin-left:250px;
+  background:#32CD32;
+  color:black;
+}
+.des
+{
+
+margin-top:20px;
+margin-left:100px;
+
+}

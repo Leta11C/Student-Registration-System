@@ -1,0 +1,56 @@
+
+
+.ok select[type="text"]
+ {
+
+	width:130px;
+  height:30px;
+  font-family: 'Ubuntu', sans-serif;
+  margin:10px 0;
+  border-radius:5px;
+  border:2px solid #f2f2f2;
+  outline:none;
+  padding-left:10px;
+  margin-right:10px;
+}
+.ok input[type="text"]
+ {
+
+	width:100px;
+  height:30px;
+  font-family: 'Ubuntu', sans-serif;
+  margin:10px 0;
+  border-radius:5px;
+  border:2px solid #f2f2f2;
+  outline:none;
+  padding-left:10px;
+  margin-right:10px;
+}
+.spa
+{
+
+margin-left:50px;
+margin-top:20px;
+
+}
+.ok button[type="submit"]
+	{
+  height:40px;
+  width:120px;
+
+  border:1px solid #f2f2f2;
+  border-radius:20px;
+  color: slategrey;
+  text-transform:uppercase;
+  font-family: 'Ubuntu', sans-serif;
+  cursor:pointer;
+  margin-top:20px;
+  margin-left:30px;
+  background:#32CD32;
+  color:black;
+}
+.ok{
+margin-left:200px;
+
+
+}

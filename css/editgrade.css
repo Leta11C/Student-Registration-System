@@ -1,0 +1,89 @@
+
+
+
+.control
+
+{
+margin-left:190px;
+margin-top:10px;
+
+}
+ input[type="text"],
+select[type="text"],
+ input[type="date"],
+  input[type="number"]
+ 
+ {
+  width: 200%;
+	max-width:200px;
+  height:30px;
+  font-family: 'Ubuntu', sans-serif;
+  margin:10px 0;
+  border-radius:5px;
+  border:2px solid #f2f2f2;
+  outline:none;
+  padding-left:10px;
+  margin-right:10px;
+}
+
+.container
+{
+border:2px;
+}
+.contro
+{
+margin-left:190px;
+margin-top:10px;
+margin-right:190px;
+}
+.details
+{
+margin-left:50px;
+
+color:white;
+width:425px;
+margin-top:5px;
+height:40px;
+
+
+}
+.add-student
+
+{
+
+height:700px;
+color:black;
+border-radius:2px;
+margin-left:110px;
+width:500px;
+background:white;
+border-radius:10px;
+
+}
+.dese{
+margin-left:50px;
+margin-right:25px;
+height:400;
+}
+th
+{
+background:white;
+color:black;
+}
+table{
+
+margin-right:100px;
+
+
+}
+button[type="submit"]{
+	width:110px;
+	height:40px;
+	  border:1px solid #ccc;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  border-bottom-right-radius:7px;
+  border-bottom-left-radius:7px;
+  background:#32CD32;
+
+}
